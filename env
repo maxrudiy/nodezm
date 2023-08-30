@@ -1,0 +1,11 @@
+TELNET_HOST = localhost 
+TELNET_PORT = 6802
+
+DB_NAME = 
+DB_USER = 
+DB_PASS = 
+DB_HOST = localhost
+DB_PORT = 3306
+
+LISTEN_PORT = 15002
+LISTEN_HOST = 0.0.0.0
